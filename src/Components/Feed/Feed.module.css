@@ -1,0 +1,8 @@
+#feedHome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+    gap:25px ;
+}

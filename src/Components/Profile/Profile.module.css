@@ -1,0 +1,24 @@
+.container{
+    margin-top: 5%;
+    min-height: 88vh;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+.upperPart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profileImg{
+    flex-basis: 50%;
+    
+}
+.info{
+    flex-basis: 40%;
+}
+.profileImg > img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 10%;
+    border-radius: 50%;
+}

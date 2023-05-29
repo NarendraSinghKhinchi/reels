@@ -1,0 +1,38 @@
+.LoginBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+.loginWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginCard{
+    max-width: 400px;
+}
+.card2{
+    width:100% ;
+    height: 2rem;
+    text-align: center;
+}
+.cardCont{
+    padding: 0% !important;
+    margin-top: 0.1rem;
+}
+.imageCardCont{
+    background-image: url("../../images/insta.png");
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    position: relative;
+}
+.imageCard{
+    position: absolute;
+    height: 473px;
+    width: 223px;
+    left: 33% ;
+    top: 3.5% ;
+    /* border: 1px solid blueviolet; */
+}
